@@ -2,9 +2,14 @@
 
 I'm Nikhil Jadhav, a Full Stack Web Developer with Masters in Computer Science from [Illinois Institute of Technology](https://www.iit.edu/) and a strong foundation in front-end and back-end development. With 3.5 years of experience at [Fiserv Inc.](https://www.fiserv.com/en.html) and [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), I have a deep understanding of the web development process and a keen eye for crafting intuitive user interfaces.
 
-### Welcome to 
+### Welcome to my codespace
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="200"/>
+  <!-- <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="250"/> -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sydrawat01/sydrawat01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sydrawat01/sydrawat01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sydrawat01/sydrawat01/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
   <!--<div id="header" align="left">
   <img src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="300"/>

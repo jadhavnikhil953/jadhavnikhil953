@@ -1,6 +1,6 @@
 ### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" /> 
 
-I'm Nikhil Jadhav, a Full Stack Web Developer with Masters in Computer Science from [Illinois Institute of Technology](https://www.iit.edu/) and a strong foundation in front-end and back-end development. With 3.5 years of experience at [Fiserv Inc.](https://www.fiserv.com/en.html) and [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), I have a deep understanding of the entire web development process and a keen eye for crafting intuitive user interfaces.
+I'm Nikhil Jadhav, a Full Stack Web Developer with Masters in Computer Science from [Illinois Institute of Technology](https://www.iit.edu/) and a strong foundation in front-end and back-end development. With 3.5 years of experience at [Fiserv Inc.](https://www.fiserv.com/en.html) and [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), I have a deep understanding of the web development process and a keen eye for crafting intuitive user interfaces.
 
 ### Welcome to 
 <div id="header" align="left">
